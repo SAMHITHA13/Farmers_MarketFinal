@@ -19,3 +19,8 @@ In order to execute the project files following are the steps:
 7.	Run the command: npm start to start the project. This will open the project on port 3000.
 8.	Open the browser and type the URL: http://localhost:3000/Home
 
+
+In case of any errors in execution in service folder check below link
+https://stackoverflow.com/questions/34463264/how-to-make-gradle-intellij-play-framework-work-together
+
+
